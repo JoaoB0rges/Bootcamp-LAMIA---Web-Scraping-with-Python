@@ -1,0 +1,3 @@
+Nome Criptomoeda: Bitcoin
+Valor Criptomoeda: $93.647,91
+Mais informacoes da Criptomoeda: https://www.coingecko.com/pt/moedas/bitcoin

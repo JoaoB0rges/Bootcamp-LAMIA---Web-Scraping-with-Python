@@ -1,0 +1,3 @@
+Nome Criptomoeda: Ethereum
+Valor Criptomoeda: $3.252,23
+Mais informacoes da Criptomoeda: https://www.coingecko.com/pt/moedas/ethereum
